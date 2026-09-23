@@ -89,4 +89,3 @@ Power BI Desktop · Power Query · DAX · Excel
 
 ---
 
-*This project was completed as a capstone in a data analysis learning program.*
