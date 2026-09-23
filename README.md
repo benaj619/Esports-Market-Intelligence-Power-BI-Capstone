@@ -80,7 +80,6 @@ Unique Games = DISTINCTCOUNT(ESport_Earnings[GameName])
 | File | Description |
 |---|---|
 | `Esports_Market_Intelligence_Case_Study.pdf` | Full written case study: overview, methodology, findings, and recommendations |
-| `Esports_Market_Intelligence_Presentation.pptx` | 9-slide investor presentation with speaker notes |
 | `Esports_Market_Intelligence_Dashboard.pdf` | PDF export of the two dashboard pages |
 | `ESport_Earnings.csv` | Source dataset (503 titles after cleaning) |
 
