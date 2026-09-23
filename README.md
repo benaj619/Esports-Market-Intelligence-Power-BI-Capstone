@@ -28,12 +28,12 @@ A firm's leadership needed to decide **whether, and where, to invest capital in 
 ### Page 1 — Executive Overview
 Market size, genre concentration, and top-earning titles, with slicers for Country, Genre, and Release Era.
 
-![Executive Overview](assets/dashboard-page1-executive-overview.png)
+![Executive Overview](dashboard-page1-executive-overview.png)
 
 ### Page 2 — Geographic Reach & Tournament Efficiency
 Regional prize concentration, each title's leading country, and a log-scale scatter of tournament activity vs. prize money.
 
-![Geographic Reach & Tournament Efficiency](assets/dashboard-page2-geographic-reach.png)
+![Geographic Reach & Tournament Efficiency](dashboard-page2-geographic-reach.png)
 
 *A third page (hidden) supplies hover tooltips with per-title average payout figures.*
 
@@ -82,7 +82,6 @@ Unique Games = DISTINCTCOUNT(ESport_Earnings[GameName])
 | `Esports_Market_Intelligence_Case_Study.pdf` | Full written case study: overview, methodology, findings, and recommendations |
 | `Esports_Market_Intelligence_Presentation.pptx` | 9-slide investor presentation with speaker notes |
 | `Esports_Market_Intelligence_Dashboard.pdf` | PDF export of the two dashboard pages |
-| `Esports_Navy_Theme.json` | Custom Power BI theme file used across the report |
 | `ESport_Earnings.csv` | Source dataset (503 titles after cleaning) |
 
 ## Tools
